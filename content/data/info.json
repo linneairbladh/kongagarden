@@ -5,5 +5,10 @@
     "stad": "Kågeröd"
   },
   "email": "info@kongagarden.se",
-  "facebook_url": "https://www.facebook.com/132065187447354"
+  "facebook_url": "https://www.facebook.com/132065187447354",
+  "address": {
+    "street": "Kongagården 1266",
+    "city": "Kågeröd",
+    "zip": "268 76"
+  }
 }
