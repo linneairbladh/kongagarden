@@ -1,8 +1,8 @@
 ---
 personal:
-  - namn: Linnéa Irbladh
-    roll: Hästskötare
-  - namn: Marie Irbladh
-    roll: King
-  - namn: Henric Irbladh
-    roll: Bonne
+- namn: Marie Irbladh
+  roll: King
+- namn: Henric Irbladh
+  roll: Bonne
+- namn: Linnéa Irbladh
+  roll: Hästskötare
