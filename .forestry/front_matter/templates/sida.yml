@@ -13,3 +13,4 @@ fields:
   label: Media
 pages:
 - pages/forsta-sidan.md
+- pages/nur.md
