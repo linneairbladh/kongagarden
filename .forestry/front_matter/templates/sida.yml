@@ -20,3 +20,5 @@ fields:
   type: image_gallery
   config: {}
   label: Media
+pages:
+- pages/forsta-sidan.md
